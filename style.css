@@ -28,6 +28,8 @@
 li {
   float:left;
 }
+
+/* Nav Bar style */
 li a {
   display: block;
   color: white;
