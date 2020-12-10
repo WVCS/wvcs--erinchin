@@ -1,4 +1,16 @@
 <style>
+  body {
+  background-color: powderblue;
+     }
+  a:link, a:visited {
+  background-color: #333;
+  color: #ffffff;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
   h1 {
   color:white;
   text-align: center; 
@@ -29,17 +41,6 @@ li a {
 }
 li a:hover {
   background-color: #808080;
-}
-body {
-  background-color: powderblue;
-     }
-  a:link, a:visited {
-  background-color: #333;
-  color: #ffffff;
-  padding: 14px 25px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
 }
 
   }
